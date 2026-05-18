@@ -1,7 +1,7 @@
 # Privacy Policy — Posted Automator
 
 **Last updated:** May 2026  
-**Contact:** [kadirjobs@users.noreply.github.com]
+**Contact:** [kadirjobs@apegra.tr]
 
 ## 1. Who we are
 
@@ -71,4 +71,4 @@ We may update this policy. The “Last updated” date will change accordingly.
 
 ## 11. Contact
 
-Questions: [kadirjobs@users.noreply.github.com]
+Questions: [kadirjobs@apegra.tr]

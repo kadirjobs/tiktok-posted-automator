@@ -1,7 +1,7 @@
 # Terms of Service — Posted Automator
 
 **Last updated:** May 2026  
-**Contact:** [kadirjobs@users.noreply.github.com]
+**Contact:** [kadirjobs@apegra.tr]
 
 ## 1. Acceptance
 
@@ -51,4 +51,4 @@ These Terms are governed by the laws of [YOUR_COUNTRY / TURKEY], without regard 
 
 ## 11. Contact
 
-[kadirjobs@users.noreply.github.com]
+[kadirjobs@apegra.tr]
