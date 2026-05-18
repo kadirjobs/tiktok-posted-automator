@@ -1,0 +1,30 @@
+# Core
+fastapi>=0.115.0,<1.0
+uvicorn[standard]>=0.32.0,<1.0
+pydantic>=2.9.0,<3.0
+pydantic-settings>=2.6.0,<3.0
+
+# Async data stores
+motor>=3.6.0,<4.0
+redis>=5.2.0,<6.0
+
+# Logging & observability
+structlog>=24.4.0,<25.0
+
+# Security
+cryptography>=43.0.0,<44.0
+bcrypt>=4.2.0,<5.0
+python-multipart>=0.0.12,<1.0
+itsdangerous>=2.2.0,<3.0
+
+# Google Drive (Phase 1 skeleton — full sync in later phases)
+google-api-python-client>=2.150.0,<3.0
+google-auth>=2.35.0,<3.0
+
+# HTTP (used in later phases)
+aiohttp>=3.11.0,<4.0
+
+# Dev / test
+pytest>=8.3.0,<9.0
+pytest-asyncio>=0.24.0,<1.0
+httpx>=0.27.0,<1.0
